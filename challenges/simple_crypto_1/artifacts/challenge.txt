@@ -1,7 +1,7 @@
 # easy RSA factoring challenge
-N = 8123180527911363587
+N = 7605865073084675867
 e = 65537
-c = 6522003797090876797
+c = 1252988018529659358
 
 # Goal: factor N or recover the plaintext flag.
-flag format: CTF{...}
+flag format: flag{...}
